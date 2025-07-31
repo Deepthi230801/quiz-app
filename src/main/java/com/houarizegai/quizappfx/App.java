@@ -18,7 +18,7 @@ public class App extends Application {
 
         stage.setScene(scene);
         stage.initStyle(StageStyle.UNDECORATED);
-        stage.setTitle("Java Quiz");
+        stage.setTitle("deepthi conducted java quiz ");
         App.stage = stage;
         stage.show();
     }
